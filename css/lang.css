@@ -1,0 +1,30 @@
+/* lang.css.php */
+
+.lang {
+    width: 100%;
+    height: 19px;
+    color: black;
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.langbox {
+    display: flex;
+    align-items: center;
+    width: 120px;
+    border-left-width: 20px;
+}
+
+.langbox img {
+    width: 40px;
+    height: 19px;
+    object-fit: cover;
+
+}
+
+.langbox p {
+    width: 50px;
+    margin-left: 5px;
+}
+

@@ -1,0 +1,19 @@
+.top {
+    background-color: brown;
+    width: 100%;
+    height: 150px;
+    margin-top: 10px;
+    display: flex;
+}
+
+.top img {
+    object-fit: contain;
+    height: 150px;
+    border-radius: 15px;
+    flex-grow: 1;
+}
+
+.top .title {
+    flex-grow: 6;
+
+}
