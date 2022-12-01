@@ -45,14 +45,26 @@
 .menu ul li {
     flex-grow: 1;
     text-align: center;
-    background-color: lightskyblue;
+    background-color: #9AD0EC;
     height: 100%;
     display: grid;
     align-items: center;
 }
 
 .menu ul li:hover {
-    background-color: black;
-    color: aliceblue; 
 
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    height: 89%;
+    border-bottom-color: #C2F970;
+    transition-duration: 400ms;
+ }
+
+.selected {
+
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    height: 89% !important;
+    border-bottom-color: #C2F970;
+    transition-duration: 400ms;
  }

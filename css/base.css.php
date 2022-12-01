@@ -9,7 +9,7 @@
 body {
   
   min-height: 100vh;
-  background-color: #EEEEEE;
+  background-color: #FEFCF3;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
 }

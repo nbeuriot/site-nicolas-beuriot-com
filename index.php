@@ -32,11 +32,11 @@
             <p>Hi!, I'm Nicolas BEURIOT and I'm looking for freelancing in DEV</p>
             <div class="menu">
                 <ul>
-                    <li onclick="about()">About</li>
-                    <li onclick="cv()">CV</li>
-                    <li>Links</li>
-                    <li>Hobbies</li>
-                    <li>Contact</li>
+                    <li id="menu-about" class="selected">About</li>
+                    <li id="menu-cv">CV</li>
+                    <li id="menu-somelinks">Links</li>
+                    <li id="menu-hobbies">Hobbies</li>
+                    <li id="menu-contact">Contact</li>
                 </ul>
             </div>
         </div>
@@ -44,7 +44,7 @@
 
     <div class="middle">
         <div class="left">
-            <?php include ("middleleftcv.php") ?>
+            <?php include ("middleleftabout.php") ?>
 
         </div>
         <div class="right">

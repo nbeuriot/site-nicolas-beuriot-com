@@ -18,8 +18,8 @@
 }
 
 .occupation {
-    background-color: lightgray;
-    border-left-color: steelblue;
+    background-color: #edf8fd;
+    border-left-color: #1572A1;
     border-radius: 15px;
     width: 90%;
     padding: 20px;
@@ -46,7 +46,7 @@
 
 .desc {
     font-size: medium;
-    font-weight: 200;
+    font-weight: 300;
 }
 .desc ul{
     list-style: none;
