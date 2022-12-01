@@ -1,0 +1,182 @@
+[
+    {
+        "start_month": "10",
+        "start_year": "2022",
+        "end_month": "11",
+        "end_year": "2022",
+        "place": "Luxemburg",
+        "client":"Quintet Private Bank",
+        "title": "Citrix Expert",
+        "desc": [{ 
+                    "desctitle": "Project: Migration Apps from Windows 2008 to Windows 2019", 
+                    "desclist": [ "Develop scripts icon migration", 
+                                "Migrate all Internet explorer apps to Edge", 
+                                "Reinstall local apps on Citrix"
+                                ]
+                }],
+        "category": "mission",
+        "contract": "Freelancing"
+    },
+    { 
+        "start_month": "07",
+        "start_year": "2022",
+        "end_month": "09",
+        "end_year": "2022",
+        "place": "Remote",
+        "client": "Le Wagon",
+        "title": "Dev FullStack Bootcamp",
+        "desc": [{ 
+                    "desctitle": "10-week full-time intensive coding bootcamp",
+                    "desclist": ["learning HTML, CSS, Bootstrap, JavaScript ES6,",
+                                "SQL, git, GitHub, Heroku and Ruby on Rails.",
+                                "Designed, implemented and shipped to production",
+                                "a clone of AirBnB and a Rails prototype"
+                                ]
+        }],
+        "category": "training",
+        "contract": ""
+    },
+    {
+        "start_month": "09",
+        "start_year": "2021",
+        "end_month": "06",
+        "end_year": "2022",
+        "place": "Luxemburg / Remote",
+        "client":"Quintet Private Bank",
+        "title": "Citrix Expert",
+        "desc": [{ 
+                    "desctitle": "Project: Migration Windows 7 to Windows 10", 
+                    "desclist": [ "Redevelop automation scripts", 
+                                "Compile Powershell to Executable", 
+                                "Put in place signed code Configure", 
+                                "GPO Rules for accepting signed code", 
+                                "Debug applications on Windows 10", 
+                                "L3 Support on Citrix XenAPP", 
+                                "Create L2 support documentation"]
+                }] ,
+        "category": "mission",
+        "contract": "Freelancing"
+    },
+    {
+        "start_month": "01",
+        "start_year": "2020",
+        "end_month": "01",
+        "end_year": "2021",
+        "place": "Luxemburg, LU",
+        "client":"Quintet Private Bank",
+        "title": "Citrix Expert",
+        "desc": [{ 
+                    "desctitle": "Project: Maintain Citrix Platforms", 
+                    "desclist": [ "Create Powershell script for automation :", 
+                                "Script to create Virtual Desktop for new employee", 
+                                "Script to clean leaving employee’s data for RGPD", 
+                                "Script to Manage AppV Issues", 
+                                "Debug applications on Citrix", 
+                                "3rd Line Support to employee"]
+                }] ,
+        "category": "mission",
+        "contract": "Freelancing"
+    },
+    {
+        "start_month": "03",
+        "start_year": "2019",
+        "end_month": "12",
+        "end_year": "2019",
+        "place": "Mamer, LU",
+        "client":"System Solution",
+        "title": "Citrix Expert",
+        "desc": [{ 
+                    "desctitle": "Project: Migrate Clients in SystemSolutions’ Cloud", 
+                    "desclist": [ "Realize assessment", 
+                                "Configure Citrix", 
+                                "Install clients applications", 
+                                "Write Designs and documentations"]
+                }] ,
+        "category": "mission",
+        "contract": "Freelancing"
+    },
+    {
+        "start_month": "01",
+        "start_year": "2017",
+        "end_month": "12",
+        "end_year": "2018",
+        "place": "Windhof, LU",
+        "client":"Elgon",
+        "title": "Citrix Trainer",
+        "desc": [{ 
+                    "desctitle": "3x one week", 
+                    "desclist": [ "Train IT professionals to Citrix", 
+                                "on class of 5 peoples"]
+                }] ,
+        "category": "mission",
+        "contract": "Trainer"
+    },
+    {
+        "start_month": "03",
+        "start_year": "2016",
+        "end_month": "10",
+        "end_year": "2018",
+        "place": "Bertrange, LU",
+        "client":"IBM (Formely IS4F)",
+        "title": "Citrix Expert",
+        "desc": [{ 
+                    "desctitle": "Project: Migration BIL Bank and RBC to two separate Citrix platform", 
+                    "desclist": [ "Create Automation Powershell Script", 
+                                "Program doing Morning Check and send HMTL report",
+                                "Script Virtual Desktop management",
+                                "Script Extract Data from Citrix MSSQL Database",
+                                "Program that Generate report for management",
+                                "Debug Applications",
+                                "3rd line Support",
+                                "Create documentations for 1st line support"]
+                },
+                {
+                    "desctitle": "Project: Migration all Web Portals to TLS 1.2", 
+                    "desclist": [ "Upgrading SSL on IIS", 
+                            "Coordinate Team in LU, FR, PL",
+                            "to updrage all portal of all managed companies",
+                            "Script Extract Data from Citrix MSSQL Database"]
+                }],
+        "category": "mission",
+        "contract": "Freelancing"
+    },
+    {
+        "start_month": "10",
+        "start_year": "2012",
+        "end_month": "12",
+        "end_year": "2013",
+        "place": "Paris, FR",
+        "client":"Amundi Asset Management",
+        "title": "Citrix Expert",
+        "desc": [{ 
+                    "desctitle": "Project: Incidents reduction", 
+                    "desclist": [ "Install analysis tools on each Virtual Desktop", 
+                                "Analyse database result", 
+                                "Correct Issues", 
+                                "Reduct Windows Event errors by 11", 
+                                "Debug applications on Citrix", 
+                                "Divide by 5 call to helpdesk"]
+                }] ,
+        "category": "mission",
+        "contract": "Freelancing"
+    },
+    {
+        "start_month": "12",
+        "start_year": "2007",
+        "end_month": "06",
+        "end_year": "2008",
+        "place": "Niort, FR",
+        "client":"Macif Insurance",
+        "title": "Citrix Administrator",
+        "desc": [{ 
+                    "desctitle": "Project: Create Secure environment for Developer in Service Center", 
+                    "desclist": [ "Install Citrix", 
+                                "Install Developer Tools", 
+                                "Correct Issues", 
+                                "Create autoconfig program in Visual Basic", 
+                                "Document installation"]
+                }] ,
+        "category": "mission",
+        "contract": "Employee"
+    }
+]

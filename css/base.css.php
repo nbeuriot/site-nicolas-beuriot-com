@@ -1,3 +1,4 @@
+
 <?php
     header("Content-type: text/css; charset: UTF-8");
 
@@ -6,6 +7,13 @@
 ?>
 
 body {
+  
   min-height: 100vh;
   background-color: #EEEEEE;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  margin: 0;
 }
