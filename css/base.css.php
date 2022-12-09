@@ -9,9 +9,11 @@
 body {
   
   min-height: 100vh;
-  background-color: #FEFCF3;
+  background-color: #FEFEFE;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
+  width: 95%;
+  margin: auto;
 }
 
 p {

@@ -1,6 +1,6 @@
 /* file: middle.css */
 
-.middle {
+.cv {
     display: flex;
     height: 100%;
     margin: 0;
@@ -65,9 +65,78 @@
 .right form {
     margin: 0;
     padding: 0;
+    margin-top: 15px;
 }
 
 .right fieldset {
     margin: 0;
-    padding: 0;
+    padding: 10px;
+}
+
+.right legend {
+    margin-left: 15px;
+    padding: 0 8px 0 8px;
+}
+
+.about {
+    display: flex;
+}
+
+.link {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 35px;
+}
+
+.link a{
+    display: flex;
+    margin: 20px;
+    width: 230px;
+    height: 150px;
+    border-radius: 25px;
+    text-decoration: none;
+    color: black;
+    border-width: 0px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+
+.link a:visited {
+    color: black;
+}
+
+.link a:hover {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.link a img {
+    width: 100px;
+    margin: auto;
+}
+
+.hobbies {
+    margin: auto;
+    margin-top: 40px;
+    width: 80%;
+}
+
+.hobbies img {
+    width: 100px;
+}
+
+.marts {
+    display: flex;
+}
+
+.finance {
+    display: flex;
+}
+
+.marts img {
+    margin-right: 50px;
+}
+
+.finance img {
+    margin-left: 50px;
 }

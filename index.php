@@ -15,6 +15,8 @@
     <title>Nicolas BEURIOT</title>
 </head>
 <body>
+ 
+
     <div class="lang">
         <div class="langbox">
                 <img src="img/Flag_of_France.svg" alt="French flag">
@@ -27,9 +29,9 @@
     </div>
 
     <div class="top">
-        <img src="img/Picture_of_Nicolas_BEURIOT.jpeg" alt="Picture of Nicolas BEURIOT">
+        <img src="img/Picture_of_Nicolas_BEURIOT.jpeg" alt="Picture of Nicolas BEURIOT" style="visibility: hidden;">
         <div class="title">
-            <p>Hi!, I'm Nicolas BEURIOT and I'm looking for freelancing in DEV</p>
+            <p style="visibility: hidden;">Hi!, I'm Nicolas BEURIOT and I'm freelance in DEV</p>
             <div class="menu">
                 <ul>
                     <li id="menu-about" class="selected">About</li>
@@ -43,38 +45,7 @@
     </div>
 
     <div class="middle">
-        <div class="left">
-            <?php include ("middleleftabout.php") ?>
-
-        </div>
-        <div class="right">
-            <form>
-                <fieldset>
-                    <legend>Order</legend>
-                    <input type="radio" name="order" id="desc" checked><label for="desc">Descending</label> <br>
-                    <input type="radio" name="order" id="asc"><label for="asc">Ascending</label>
-                </fieldset>
-            </form>
-
-            <form>
-                <fieldset>
-                    <legend>Contract type</legend>
-                    <input type="checkbox" name="ctype" id="freelance" checked><label for="freelance">Freelancing</label><br>
-                    <input type="checkbox" name="ctype" id="employee"><label for="employee">Employee</label>
-                </fieldset>
-            </form>
-
-            <form>
-                <fieldset>
-                    <legend>Occupation Type</legend>
-                    <input type="checkbox" name="otype" id="mission" checked><label for="mission">Mission</label><br>
-                    <input type="checkbox" name="otype" id="traininggiven"><label for="traininggiven">Training given</label><br>
-                    <input type="checkbox" name="otype" id="trainingreceive"><label for="trainingreceive">Training receive</label><br>
-                </fieldset>
-            </form>
-            </ul>
-        </div>
-
+        <?php include ("middleleftabout.php") ?>
     </div>
     
 </body>

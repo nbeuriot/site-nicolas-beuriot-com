@@ -13,7 +13,6 @@
     width: 112px;
     border-radius: 15px;
     margin-right: 20px;
-    
 }
 
 .top .title {
@@ -24,6 +23,7 @@
 
 }
 .title p {
+    visibility: hidden;
     flex-grow: 1;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -67,4 +67,12 @@
     height: 89% !important;
     border-bottom-color: #C2F970;
     transition-duration: 400ms;
+ }
+
+ #menu-about {
+    border-radius: 20px 0 0 20px;
+ }
+
+ #menu-contact {
+    border-radius: 0 20px 20px 0;
  }
